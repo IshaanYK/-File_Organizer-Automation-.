@@ -17,9 +17,9 @@ from googleapiclient.http import MediaFileUpload
 import google.auth
 
 # Global variables for email notifications
-sender_email = "isen97509@gmail.com"  # Replace with your actual email
-receiver_email = "senishan526@gmail.com"  # Replace with the recipient's email
-password = "juth btnx wsxp kpwd"  # Use generated App Password instead of your regular password
+sender_email = "your_email@gmail.com"  # Replace with your actual email
+receiver_email = "recipient_email@gmail.com"  # Replace with the recipient's email
+password = "your_app_password"  # Use generated App Password instead of your regular password
 
 # Global variable for selected directory
 selected_directory = None
