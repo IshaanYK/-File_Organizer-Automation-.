@@ -17,7 +17,7 @@ This is a Python-based automation tool that:
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FileOrganizer-Automation.git
+   git clone https://github.com/IshaanYK/FileOrganizer-Automation.git
 
 install dependencies
  -   pip install -r requirements.txt
